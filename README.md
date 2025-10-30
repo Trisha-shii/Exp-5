@@ -40,7 +40,8 @@ Sequence Diagram
 
 ## CLASS DIAGRAM:
 
-![Uploading SRS CLASS DIAG.jpg…]()
+![SRS CLASS DIAG](https://github.com/user-attachments/assets/df982734-75e3-4088-a83d-c0d98d1d9521)
+
 
 
 ## ACTIVITY DIAGRAM:
